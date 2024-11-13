@@ -1,5 +1,7 @@
 # Ex-3-RECOGNITION-OF-A-VALID-ARITHMETIC-EXPRESSION-THAT-USES-OPERATOR-AND-USING-YACC
 # Date:10/10/24
+# Name : ATCHAYA .K
+# Register number:212223220011
 # AIM
 To write a yacc program to recognize a valid arithmetic expression that uses operator +,- ,* and /.
 # ALGORITHM
@@ -69,7 +71,7 @@ void yyerror(const char *s) {
 ```
 # OUTPUT
 
-![image](https://github.com/user-attachments/assets/25335a30-ebca-486a-9d8f-e5986baae4c8)
+![377577633-670d2f96-f64a-48b7-960d-b4ecdde0b286](https://github.com/user-attachments/assets/81638c24-7cba-439b-9d39-817ae6c67f5b)
 
 
 # RESULT
